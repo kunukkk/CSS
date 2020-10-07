@@ -1,0 +1,58 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: pink;
+}
+
+hr {
+    border: 5px solid blue;
+    text-align: center;
+}
+
+span {
+    color: red;
+    background: blue;
+}
+
+h1 {
+    font-family : "Malgun Gothic", sans-serif;
+    color: purple;
+    text-align: center;
+}
+
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+a:visited {
+    color: green;
+}
+
+li:hover {
+    background: yellowgreen;
+}
+
+li:active {
+    color: aqua
+}
+
+li {
+    text-align: start;
+    cursor: pointer;
+}
+
+#p1 {
+    text-indent: 3em;
+}
+
+div{
+    text-align: center;
+    background: yellow;
+    width: 400px;
+    border-style: dotted;
+    border-color: blue;
+    border-width: 30px;
+    border-radius: 30px 0px 50px 30px;
+    padding:40px;
+    margin: 60px;
+}
